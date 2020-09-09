@@ -1,2 +1,3 @@
 # Quizzed
-Quiz App in Js.
+
+> Quiz App in Vanilla Js.
